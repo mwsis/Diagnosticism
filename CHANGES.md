@@ -1,6 +1,11 @@
 # Diagnosticism - CHANGES <!-- omit in toc -->
 
 
+## 0.3.0 - 9th August 2026
+
+0.3.0
+
+
 ## 0.3.0-alpha3 - 5th August 2026
 
 * fixed CMake install so **compiler.h** and **language.h** install under **include/diagnosticism/internal/** (not flattened into **include/diagnosticism/**);
